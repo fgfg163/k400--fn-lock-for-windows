@@ -1,5 +1,5 @@
-# k380-fn-lock-for-windows
- Lock Fn keys on K380 (for windows)
+# k400plus-fn-lock-for-windows
+ Lock Fn keys on K400plus (for windows)
 
 ## Goal
 This program locks the fn key for the Logitech K380 bluetooth keyboard on Windows. 
@@ -20,4 +20,4 @@ Revert with `setMediaKeys.exe` to unlock and restore media keys.
 
 # Inspiration
 code from : https://github.com/keighrim/k810fn/blob/master/win/k810fn/k810fnCLI.cpp   
-values from : https://github.com/jergusg/k380-function-keys-conf/blob/master/k380_conf.c
+values from : https://github.com/sginne/fn_key_k400_for_logitech/blob/master/disable.py
