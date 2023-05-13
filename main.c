@@ -19,7 +19,7 @@ continuously running processes.
 * Inspiration
 
 code from : https://github.com/keighrim/k810fn/blob/master/win/k810fn/k810fnCLI.cpp
-values from : https://github.com/jergusg/k400p-function-keys-conf/blob/master/k400p_conf.c
+values from : https://github.com/sginne/fn_key_k400_for_logitech/blob/master/disable.py
 
 */
 
